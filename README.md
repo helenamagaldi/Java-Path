@@ -8,3 +8,4 @@ But both JVM and JRE execute bytecode.
 JRE contains JVM, but also has a lot of embebbed libraries - if we want the java application to work, you need libraries on top of the virtual machine. 
 
 JDK = JRE + development tools
+Codes generated 
