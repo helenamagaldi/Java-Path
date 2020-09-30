@@ -1,5 +1,5 @@
 # Java-Path
-Codes generated on Java Path - Alura
+Codes generated for Java Path - Alura
 
 
 JVM  understands certain commands. These commands are also called opcodes (operation code) e each opcode is exactly 1 Byte. So, we have a 1 Byte Opcode, or Bytecode. 
