@@ -8,7 +8,7 @@ class Program {
 // # indent, indent, indent because system out is inside main that is inside the program class 
 // always use "" for strings in .java 
         System.out.println("hello world");
-        // every instruction for .java files needs to be finalized with ; 
+        // every instruction for .java files needs to be finalized with ; jav
     } 
 }
 // { } keys set the program block, in this class public static void main for Program
